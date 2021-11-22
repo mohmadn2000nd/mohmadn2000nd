@@ -3,7 +3,7 @@ touch /data/data/com.tencent.ig/app_crashrecord
 rm -rf /data/data/com.tencent.ig/databases
 rm -rf /data/data/com.tencent.ig/files/ano_tmp/*
 chmod -R 000 /data/data/com.tencent.ig/files/ano_tmp
-rm -rf /data/data/com.tencent.ig/{*app*,cache,code_cache,files,no_backup} > /dev/null 2>&1
+rm -rf /data/data/com.tencent.ig/{*app*,cache,code_cache,no_backup} > /dev/null 2>&1
 touch /data/data/com.tencent.ig/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 chmod -R 000 /data/data/com.tencent.ig/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 rm -rf /data/data/com.tencent.ig/databases/* > /dev/null 2>&1
@@ -62,7 +62,7 @@ touch /data/data/com.pubg.imobile/app_crashrecord
 rm -rf /data/data/com.pubg.imobile/databases
 rm -rf /data/data/com.pubg.imobile/files/ano_tmp/*
 chmod -R 000 /data/data/com.pubg.imobile/files/ano_tmp
-rm -rf /data/data/com.pubg.imobile/{*app*,cache,code_cache,files,no_backup} > /dev/null 2>&1
+rm -rf /data/data/com.pubg.imobile/{*app*,cache,code_cache,no_backup} > /dev/null 2>&1
 touch /data/data/com.pubg.imobile/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 chmod -R 000 /data/data/com.pubg.imobile/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 rm -rf /data/data/com.pubg.imobile/databases/* > /dev/null 2>&1
@@ -121,7 +121,7 @@ touch /data/data/com.vng.pubgmobile/app_crashrecord
 rm -rf /data/data/com.vng.pubgmobile/databases
 rm -rf /data/data/com.vng.pubgmobile/files/ano_tmp/*
 chmod -R 000 /data/data/com.vng.pubgmobile/files/ano_tmp
-rm -rf /data/data/com.vng.pubgmobile/{*app*,cache,code_cache,files,no_backup} > /dev/null 2>&1
+rm -rf /data/data/com.vng.pubgmobile/{*app*,cache,code_cache,no_backup} > /dev/null 2>&1
 touch /data/data/com.vng.pubgmobile/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 chmod -R 000 /data/data/com.vng.pubgmobile/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 rm -rf /data/data/com.vng.pubgmobile/databases/* > /dev/null 2>&1
@@ -180,7 +180,7 @@ touch /data/data/com.pubg.krmobile/app_crashrecord
 rm -rf /data/data/com.pubg.krmobile/databases
 rm -rf /data/data/com.pubg.krmobile/files/ano_tmp/*
 chmod -R 000 /data/data/com.pubg.krmobile/files/ano_tmp
-rm -rf /data/data/com.pubg.krmobile/{*app*,cache,code_cache,files,no_backup} > /dev/null 2>&1
+rm -rf /data/data/com.pubg.krmobile/{*app*,cache,code_cache,no_backup} > /dev/null 2>&1
 touch /data/data/com.pubg.krmobile/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 chmod -R 000 /data/data/com.pubg.krmobile/{app_appcache,app_bugly,app_crashrecord,app_databases,app_geolocation,app_lib,app_textures,cache,code_cache,no_backup} > /dev/null 2>&1
 rm -rf /data/data/com.pubg.krmobile/databases/* > /dev/null 2>&1
