@@ -54,8 +54,6 @@ UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 chmod -R 444 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-rm -rf /data/data/com.tencent.ig/lib/{libapp.so,libBugly.so,libc++_shared.so,libflutter.so,libgamemaster.so,libgcloudarch.so,libhelpshiftlistener.so,libigshare.so,libImSDK.so,libkk-image.so,liblbs.so,libmarsxlog.so,libmmkv.so,libnpps-jni.so,libsentry.so,libsentry-android.so,libsoundtouch.so,libst-engine.so,libtgpa.so,libzip.so} > /dev/null 2>&1
-chmod -R 000 /data/data/com.tencent.ig/lib/* > /dev/null 2>&1
 
 rm -rf /data/data/com.pubg.imobile/app_crashrecord
 touch /data/data/com.pubg.imobile/app_crashrecord
@@ -113,8 +111,6 @@ UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 chmod -R 444 /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-rm -rf /data/data/com.pubg.imobile/lib/{libapp.so,libBugly.so,libc++_shared.so,libflutter.so,libgamemaster.so,libgcloudarch.so,libhelpshiftlistener.so,libigshare.so,libImSDK.so,libkk-image.so,liblbs.so,libmarsxlog.so,libmmkv.so,libnpps-jni.so,libsentry.so,libsentry-android.so,libsoundtouch.so,libst-engine.so,libtgpa.so,libzip.so} > /dev/null 2>&1
-chmod -R 000 /data/data/com.pubg.imobile/lib/* > /dev/null 2>&1
 
 rm -rf /data/data/com.vng.pubgmobile/app_crashrecord
 touch /data/data/com.vng.pubgmobile/app_crashrecord
@@ -172,8 +168,6 @@ UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 chmod -R 444 /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-rm -rf /data/data/com.vng.pubgmobile/lib/{libapp.so,libBugly.so,libc++_shared.so,libflutter.so,libgamemaster.so,libgcloudarch.so,libhelpshiftlistener.so,libigshare.so,libImSDK.so,libkk-image.so,liblbs.so,libmarsxlog.so,libmmkv.so,libnpps-jni.so,libsentry.so,libsentry-android.so,libsoundtouch.so,libst-engine.so,libtgpa.so,libzip.so} > /dev/null 2>&1
-chmod -R 000 /data/data/com.vng.pubgmobile/lib/* > /dev/null 2>&1
 
 rm -rf /data/data/com.pubg.krmobile/app_crashrecord
 touch /data/data/com.pubg.krmobile/app_crashrecord
@@ -231,8 +225,6 @@ UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 chmod -R 444 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-rm -rf /data/data/com.pubg.krmobile/lib/{libapp.so,libBugly.so,libc++_shared.so,libflutter.so,libgamemaster.so,libgcloudarch.so,libhelpshiftlistener.so,libigshare.so,libImSDK.so,libkk-image.so,liblbs.so,libmarsxlog.so,libmmkv.so,libnpps-jni.so,libsentry.so,libsentry-android.so,libsoundtouch.so,libst-engine.so,libtgpa.so,libzip.so} > /dev/null 2>&1
-chmod -R 000 /data/data/com.pubg.krmobile/lib/* > /dev/null 2>&1
 
 rm -rf /storage/emulated/0/.backups/com.tencent.ig/helpshift/database
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
