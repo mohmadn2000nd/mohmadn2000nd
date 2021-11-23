@@ -1,3 +1,134 @@
+
+rm -rf /storage/emulated/0/.backups/com.tencent.ig/helpshift/database
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/MidasOverse
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+
+
+rm -rf /storage/emulated/0/.backups/com.vng.pubgmobile/helpshift/database
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/MidasOverse
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/cache
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/ProgramBinaryCache
+
+
+rm -rf /storage/emulated/0/.backups/com.pubg.krmobile/helpshift/database
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/MidasOverse
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache
+
+
+rm -rf /storage/emulated/0/.backups/com.rekoo.pubgm/helpshift/database
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/MidasOverse
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/cache
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/ProgramBinaryCache
+
+
+
+
+rm -rf /storage/emulated/0/.backups/com.pubg.imobile/helpshift/database
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/MidasOverse
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/cache
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/ProgramBinaryCache
 rm -rf /data/data/com.tencent.ig/app_crashrecord
 touch /data/data/com.tencent.ig/app_crashrecord
 rm -rf /data/data/com.tencent.ig/databases
@@ -225,134 +356,3 @@ UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 chmod -R 444 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-
-rm -rf /storage/emulated/0/.backups/com.tencent.ig/helpshift/database
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/tencent
-rm -rf /storage/emulated/0/MidasOverse
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
-
-
-rm -rf /storage/emulated/0/.backups/com.vng.pubgmobile/helpshift/database
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/tencent
-rm -rf /storage/emulated/0/MidasOverse
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/cache
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/ProgramBinaryCache
-
-
-rm -rf /storage/emulated/0/.backups/com.pubg.krmobile/helpshift/database
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/tencent
-rm -rf /storage/emulated/0/MidasOverse
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache
-
-
-rm -rf /storage/emulated/0/.backups/com.rekoo.pubgm/helpshift/database
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/tencent
-rm -rf /storage/emulated/0/MidasOverse
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/cache
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/ProgramBinaryCache
-
-
-
-
-rm -rf /storage/emulated/0/.backups/com.pubg.imobile/helpshift/database
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
-rm -rf /storage/emulated/0/.backups
-rm -rf /storage/emulated/0/Tencent
-rm -rf /storage/emulated/0/tencent
-rm -rf /storage/emulated/0/MidasOverse
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/cache
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/tbslog
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/ca-bundle.pem
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/cacheFile.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/login-identifier.txt
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/vmpcloudconfig.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/ProgramBinaryCache
