@@ -4,12 +4,6 @@ rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrack
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
 rm -rf /storage/emulated/0/.backups
@@ -30,12 +24,6 @@ rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowT
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
 rm -rf /storage/emulated/0/.backups
@@ -56,12 +44,6 @@ rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTr
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
 rm -rf /storage/emulated/0/.backups
@@ -82,12 +64,6 @@ rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrac
 rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
 rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
 rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
 rm -rf /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
 rm -rf /storage/emulated/0/.backups
@@ -110,12 +86,6 @@ rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTra
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/login-identifier.txt
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
 rm -rf /storage/emulated/0/.backups
@@ -141,14 +111,6 @@ rm -rf /data/data/com.tencent.ig/databases/* > /dev/null 2>&1
 touch /data/data/com.tencent.ig/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.tencent.ig/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-echo '[/Script/Client.GDolphinUpdater]
-Disable=true
-
-
-
-' > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
-
 rm -rf /data/data/com.pubg.imobile/app_crashrecord
 touch /data/data/com.pubg.imobile/app_crashrecord
 rm -rf /data/data/com.pubg.imobile/databases
@@ -161,14 +123,6 @@ rm -rf /data/data/com.pubg.imobile/databases/* > /dev/null 2>&1
 touch /data/data/com.pubg.imobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.pubg.imobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-echo '[/Script/Client.GDolphinUpdater]
-Disable=true
-
-
-
-' > /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
-
 rm -rf /data/data/com.vng.pubgmobile/app_crashrecord
 touch /data/data/com.vng.pubgmobile/app_crashrecord
 rm -rf /data/data/com.vng.pubgmobile/databases
@@ -181,13 +135,6 @@ rm -rf /data/data/com.vng.pubgmobile/databases/* > /dev/null 2>&1
 touch /data/data/com.vng.pubgmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.vng.pubgmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-echo '[/Script/Client.GDolphinUpdater]
-Disable=true
-
-
-
-' > /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 
 rm -rf /data/data/com.pubg.krmobile/app_crashrecord
 touch /data/data/com.pubg.krmobile/app_crashrecord
@@ -201,10 +148,3 @@ rm -rf /data/data/com.pubg.krmobile/databases/* > /dev/null 2>&1
 touch /data/data/com.pubg.krmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.pubg.krmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
-echo '[/Script/Client.GDolphinUpdater]
-Disable=true
-
-
-
-' > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
