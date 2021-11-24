@@ -141,23 +141,6 @@ rm -rf /data/data/com.tencent.ig/databases/* > /dev/null 2>&1
 touch /data/data/com.tencent.ig/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.tencent.ig/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-touch /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.tencent.ig/cache > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.tencent.ig/cache > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.tencent.ig/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,PufferTmpDir,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
@@ -184,7 +167,6 @@ PreUpdate=false
 UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
-chmod -R 444 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 
 rm -rf /data/data/com.pubg.imobile/app_crashrecord
 touch /data/data/com.pubg.imobile/app_crashrecord
@@ -198,23 +180,6 @@ rm -rf /data/data/com.pubg.imobile/databases/* > /dev/null 2>&1
 touch /data/data/com.pubg.imobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.pubg.imobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-touch /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/cache > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.imobile/cache > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.imobile/cache > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.imobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.imobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,PufferTmpDir,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
@@ -241,7 +206,6 @@ PreUpdate=false
 UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
-chmod -R 444 /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 
 rm -rf /data/data/com.vng.pubgmobile/app_crashrecord
 touch /data/data/com.vng.pubgmobile/app_crashrecord
@@ -255,23 +219,6 @@ rm -rf /data/data/com.vng.pubgmobile/databases/* > /dev/null 2>&1
 touch /data/data/com.vng.pubgmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.vng.pubgmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-touch /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/cache > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.vng.pubgmobile/cache > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.vng.pubgmobile/cache > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.vng.pubgmobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.vng.pubgmobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,PufferTmpDir,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
@@ -298,7 +245,6 @@ PreUpdate=false
 UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
-chmod -R 444 /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 
 rm -rf /data/data/com.pubg.krmobile/app_crashrecord
 touch /data/data/com.pubg.krmobile/app_crashrecord
@@ -312,23 +258,6 @@ rm -rf /data/data/com.pubg.krmobile/databases/* > /dev/null 2>&1
 touch /data/data/com.pubg.krmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 chmod -R 000 /data/data/com.pubg.krmobile/databases/{__hs__db_issues,__hs__db_issues-shm,__hs__db_issues-wal,__hs__db_key_values,__hs__db_key_values-shm,__hs__db_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs__db_support_key_values,__hs__db_support_key_values-shm,__hs__db_support_key_values-wal,__hs_log_store,__hs_log_store-shm,__hs_log_store-wal,bugly_db_,bugly_db_-shm,bugly_db_-wal,config.db,google_app_measurement_local.db,iMSDK.db}  > /dev/null 2>&1
 rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-touch /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,tencent} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/cache > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.krmobile/cache > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.krmobile/files/{TGPA,ca-bundle.pem,cacheFile.txt,hawk_data,login-identifier.txt} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/{Engine,'Epic Games'} > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate > /dev/null 2>&1
-rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,PufferTmpDir,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
-chmod -R 000 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{Logs,MMKV,rawdata,RoleInfo,TableDatas,UpdateInfo} > /dev/null 2>&1
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
@@ -355,4 +284,3 @@ PreUpdate=false
 UpdateChannelIOS=0
 UpdateChannelIOS_PVRTC=0
 UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
-chmod -R 444 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
