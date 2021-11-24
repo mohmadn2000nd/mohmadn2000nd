@@ -144,29 +144,10 @@ rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,ten
 rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
-AllowIOSBGDownload=false
-AllowIOSBGDownloadPush=false
-DisableJPKRBGDownloadNightPush=false
-DisableJPKRBGDownloadNightPushAfterHour=14
-DisableJPKRBGDownloadNightPushBeforeHour=14
-IOSBGDownloadPushDelaySeconds=1401
-EnableRandomBackupURL=false
-UpdateInfoPath=M10UpdateInfo/
-AppStoreUrl=\"null\"
-GooglePlayUrl=\"null\"
-SamSungPlayUrl=\"null\"
-AmazonPlayUrl=\"null\"
-HMSPlayUrl=\"null\"
-UpdateUrl=\"null\"
-PreUpdateUrl=\"null\"
-VersionUrl=\"null\"
-CDNVersionUrl=\"null\"
-PreVersionUrl=\"null\"
-PreCDNVersionUrl=\"null\"
-PreUpdate=false
-UpdateChannelIOS=0
-UpdateChannelIOS_PVRTC=0
-UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
+
+
+
+' > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 
 rm -rf /data/data/com.pubg.imobile/app_crashrecord
 touch /data/data/com.pubg.imobile/app_crashrecord
@@ -183,29 +164,10 @@ rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,ten
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
-AllowIOSBGDownload=false
-AllowIOSBGDownloadPush=false
-DisableJPKRBGDownloadNightPush=false
-DisableJPKRBGDownloadNightPushAfterHour=14
-DisableJPKRBGDownloadNightPushBeforeHour=14
-IOSBGDownloadPushDelaySeconds=1401
-EnableRandomBackupURL=false
-UpdateInfoPath=M10UpdateInfo/
-AppStoreUrl=\"null\"
-GooglePlayUrl=\"null\"
-SamSungPlayUrl=\"null\"
-AmazonPlayUrl=\"null\"
-HMSPlayUrl=\"null\"
-UpdateUrl=\"null\"
-PreUpdateUrl=\"null\"
-VersionUrl=\"null\"
-CDNVersionUrl=\"null\"
-PreVersionUrl=\"null\"
-PreCDNVersionUrl=\"null\"
-PreUpdate=false
-UpdateChannelIOS=0
-UpdateChannelIOS_PVRTC=0
-UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
+
+
+
+' > /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 
 rm -rf /data/data/com.vng.pubgmobile/app_crashrecord
 touch /data/data/com.vng.pubgmobile/app_crashrecord
@@ -222,29 +184,10 @@ rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,ten
 rm -rf /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
-AllowIOSBGDownload=false
-AllowIOSBGDownloadPush=false
-DisableJPKRBGDownloadNightPush=false
-DisableJPKRBGDownloadNightPushAfterHour=14
-DisableJPKRBGDownloadNightPushBeforeHour=14
-IOSBGDownloadPushDelaySeconds=1401
-EnableRandomBackupURL=false
-UpdateInfoPath=M10UpdateInfo/
-AppStoreUrl=\"null\"
-GooglePlayUrl=\"null\"
-SamSungPlayUrl=\"null\"
-AmazonPlayUrl=\"null\"
-HMSPlayUrl=\"null\"
-UpdateUrl=\"null\"
-PreUpdateUrl=\"null\"
-VersionUrl=\"null\"
-CDNVersionUrl=\"null\"
-PreVersionUrl=\"null\"
-PreCDNVersionUrl=\"null\"
-PreUpdate=false
-UpdateChannelIOS=0
-UpdateChannelIOS_PVRTC=0
-UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
+
+
+
+' > /storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
 
 rm -rf /data/data/com.pubg.krmobile/app_crashrecord
 touch /data/data/com.pubg.krmobile/app_crashrecord
@@ -261,26 +204,7 @@ rm -rf /storage/emulated/0/{.backups,.ext4,.sstmp,MidasOversea,QTAudioEngine,ten
 rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini > /dev/null 2>&1
 echo '[/Script/Client.GDolphinUpdater]
 Disable=true
-AllowIOSBGDownload=false
-AllowIOSBGDownloadPush=false
-DisableJPKRBGDownloadNightPush=false
-DisableJPKRBGDownloadNightPushAfterHour=14
-DisableJPKRBGDownloadNightPushBeforeHour=14
-IOSBGDownloadPushDelaySeconds=1401
-EnableRandomBackupURL=false
-UpdateInfoPath=M10UpdateInfo/
-AppStoreUrl=\"null\"
-GooglePlayUrl=\"null\"
-SamSungPlayUrl=\"null\"
-AmazonPlayUrl=\"null\"
-HMSPlayUrl=\"null\"
-UpdateUrl=\"null\"
-PreUpdateUrl=\"null\"
-VersionUrl=\"null\"
-CDNVersionUrl=\"null\"
-PreVersionUrl=\"null\"
-PreCDNVersionUrl=\"null\"
-PreUpdate=false
-UpdateChannelIOS=0
-UpdateChannelIOS_PVRTC=0
-UpdateChannelAndroid=0' > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
+
+
+
+' > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
