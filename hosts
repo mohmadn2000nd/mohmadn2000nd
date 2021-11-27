@@ -1,6 +1,13 @@
+MWSL-hostlist-2016.1.25
+http://www.mwsl.org.cn
+note：181.215.102.78 is intercept page ip
+Warning: not for illegal behavior!
+Welcome to oneDNS(http://www.onedns.net)
+---------------------------------------
+All Rights Reserved 2007-2015
 #localhost
 127.0.0.1 localhost
-
+#cnc-dnserror
 181.215.102.78 down.anticheatexpert.com
 181.215.102.78 cloud.vmp.onezapp.com
 181.215.102.78 150.109.247.135
